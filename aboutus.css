@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Kaushan+Script&family=Pacifico&family=Poppins:wght@200&display=swap");
+
+*{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+.name{
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+.navigation{
+    background-color: wheat;
+}
+.first{
+    padding-top: 2px;
+    padding-left: 1px;
+    width: 60px;
+    border: 3px;
+    border-radius: 50px;
+}
+.nav{
+    padding-left: 400px;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 25px;
+}
+.nav a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+.dh1{
+    background-color: whitesmoke;
+}
+.dh1 h1{
+    text-align: center;
+    padding-top: 35px;
+}
+.benefit{
+    display: flex;
+}
+.c1{
+    display: flex;
+    width: 500px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.c1 .c_img{
+    display: flex;
+    padding-left: 30px;
+    width: 50px;
+    height: 50px;
+}
+.c1 h4{
+    position: absolute;
+    width: 257px;
+    padding-left: 111px;
+}
+.c1 p{
+    position: absolute;
+    width: 221px;
+    padding-left: 111px;
+    padding-top: 30px;
+    color: gray;
+}
+.review{
+    height: 150px;
+    background-color: whitesmoke;
+}
+.review p{
+    /* width: 351px; */
+    text-align: center;
+    /* margin-left: 200px; */
+    padding-top: 70px;
+    color: gray;
+}
+.com1{
+    width: 30px;
+    height: 30px;
+    margin-top: -322px;
+    margin-left: -647px;
+}
+.com2{
+    width: 30px;
+    height: 30px;
+    margin-top: -294px;
+    margin-left: 565px;
+}
+.client{
+    height: 70px;
+    background-color: whitesmoke;
+
+}
+.client h1{
+    width: 540px;
+    border-bottom: 1px solid rgb(214, 214, 214);
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 360px;
+}
+.abtus{
+    height: 230px;
+    background-color: rgb(179, 255, 230);
+    padding: 30px;
+}
+.abtus h1{
+    padding-top: 10px;
+    border-bottom: 1px solid rgb(203, 203, 203);
+    width: 300px;
+    margin-left: 445px;
+    text-align: center;
+}
+.abtus p{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 200px;
+    width: 800px;
+    color: gray;
+}
+.abtus h3{
+    text-align: center;
+    padding-top: 30px;
+}
+.sec1{
+    height: 500px;
+}
+.sec1 img{
+    height: 500px;
+    width: 1263px;
+    filter: contrast(60%);
+}
+.sec1 h2{
+    position: absolute;
+    width: 750px;
+    top: 50%;
+    left: 50%;
+    bottom: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-size: 88px;
+    font-family: 'Anton', sans-serif;
+}
+.sec1 h1{
+    position: absolute;
+    width: 750px;
+    top: 35%;
+    left: 70%;
+    bottom: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-size: 88px;
+    font-family: 'Anton', sans-serif;
+}
