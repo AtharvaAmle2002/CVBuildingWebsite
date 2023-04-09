@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Kaushan+Script&family=Pacifico&family=Poppins:wght@200&display=swap");
+*{
+    margin: 0px;
+}
+.name{
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+.navigation{
+    font-family: Helvetica, sans-serif;
+    background-color: wheat;
+}
+.first{
+    padding-top: 2px;
+    padding-left: 1px;
+    width: 60px;
+    border: 3px;
+    border-radius: 50px;
+}
+.nav{
+    padding-left: 400px;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 25px;
+}
+.nav a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+.tips-list{
+    background-color: rgba(255, 255, 255, 0.922);
+    align-items: center;
+    padding: 100px;
+}
+.head1{
+    text-align: center;
+    padding-bottom: 5px;
+    margin-bottom: 32px;
+    margin-left: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid blue;
+    width: 500px;
+}
+.l_items{
+    padding: 10px;
+    list-style-type:  disc;
+    font-size: 20px;
+    width: 800px;
+    margin-left: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: gray;
+}
+.video{
+    padding: 50px;
+    display: flex;
+    background-image: url('C://xampp//htdocs//userregistration//MINI PROJECT//Desktop - 1.png');
+    height: 350px;
+}
+.txt{
+    width: 580px;
+    display: flex;
+}
+.txt h1{
+    padding: 80px;
+    padding-top: 110px;
+    padding-left: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.vid{
+    display: flex;
+}
+.vid iframe{
+    box-shadow: 10px 10px;
+}
+.efforts{
+    /* background-image: url('C://xampp//htdocs//userregistration//MINI PROJECT//back1.jpg');*/
+    background-image: url('https://cdn-images.zety.com/images/zety/landings/home/jumbotron-1920@2x.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 480px;
+}
+.efforts h1{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 88px;
+    font-family: 'Anton', sans-serif;
+}
